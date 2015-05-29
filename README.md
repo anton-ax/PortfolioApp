@@ -1,3 +1,3 @@
-Android Nanodegree Project
- =======
+#Android Nanodegree Project#
+
 Project number one
